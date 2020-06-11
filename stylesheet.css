@@ -1,13 +1,13 @@
 
 h1{
-  font-size:5px;
+  font-size:1px;
 }
 
 a{
   display:inline-block;
   background-color:red;
-  border-radius:5px;
-  font-size:5px;
+  border-radius:1px;
+  font-size:1px;
   color:white;
   hover:0.1;
 }
